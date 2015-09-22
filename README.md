@@ -1,1 +1,3 @@
-My personal site. http://gregjacobs.github.io
+Repository for my personal website. 
+
+http://gregjacobs.github.io
