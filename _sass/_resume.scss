@@ -1,0 +1,13 @@
+.resume-table {
+	border-spacing: 0;
+
+	td { vertical-align: top; padding: 0; }
+
+	tr {
+		td:first-child { width: 190px }
+	}
+}
+
+.resume-table__row {
+	td { padding-bottom: 15px; }
+}
